@@ -1,5 +1,29 @@
-# 💫 About Me:
-🎓 BCA undergrad · Full-Stack Developer in the making<br>🧠 I learn by shipping — build it, break it, debug it, refactor it.<br><br>🔭 Currently Building:<br>🏢 SocietySync — a full-stack society management platform with role-based access control (RBAC), secure authentication, resident/staff/admin dashboards, real-time visitor logging, and automated maintenance workflows<br>🎫 KALYATRI — a role-based mock project with separate login panels and dashboards per user role, database embedded directly in the codebase<br>🐍 Python mini-projects to sharpen DSA and core programming fundamentals<br>🤖 Prototyping with LLM APIs to build AI-assisted features into real apps<br><br>🌱 Currently Leveling Up:<br>Python, SQL & Databases, REST APIs, AI/LLM Development, Cloud & Deployment, Linux & Automation, Software Testing<br><br>🛠️ Tech Stack:<br>JavaScript, TypeScript, React, Next.js, Supabase, Git & GitHub, Linux<br><br>🎯 Actively Seeking:<br>💻 Software Development Internship<br>🌐 Full-Stack / Web Development Internship<br>🐍 Python Development Internship<br>🛠️ IT / Technical Support Internship<br>🧪 QA / Software Testing Internship<br><br>🤝 Open to Collaborate On:<br>Production-grade side projects, beginner-friendly OSS, AI/LLM-powered apps, automation scripts & tools, full-stack web apps<br><br>💬 Ask Me About:<br>SocietySync architecture, KALYATRI's role-based auth flow, learning in public, Linux workflows, Git branching & PRs, frontend/backend integration, prompt engineering<br><br>⚡ Fun Fact:<br>I'd rather ship a rough MVP and iterate than perfect it in theory first — git commit > overthinking. 😄<br><br>🚀 Current Mission:<br>Learn → Build → Debug → Ship → Repeat<br>Chasing my first opportunity to code alongside an experienced team, contribute to production systems, and turn self-built projects into real-world engineering impact. 🚀
+# 🧑‍💻 About Me
+
+🤖 **AI Agent Developer | AI Automation & Intelligent Applications**
+
+I build AI-powered applications, intelligent agents, and automation workflows by combining LLMs, API integrations, and modern development technologies to transform ideas into practical solutions. 🚀
+
+🛠️ **Currently Building:**
+- 🛡️ **CYBERGUARD** — An AI-powered platform for phishing detection, cyber threat analysis, and explainable risk assessment.
+- 🏢 **SocietySync** — A role-based residential society management platform.
+- 🚗 **KALYATRI** — A role-based ride-booking platform with dedicated user interfaces and dashboards.
+- 🤖 AI-powered tools, intelligent applications, and automation workflows.
+
+🌱 **Currently Exploring:**  
+AI Agent Development, LLM Integration, Prompt Engineering, Python, REST APIs, TypeScript, React, Next.js, Supabase, Cloud Deployment, Linux & Automation.
+
+⚡ **Tech Stack:**  
+Python, JavaScript, TypeScript, React, Next.js, Supabase, Git & GitHub, REST APIs, AI/LLM Integration, Linux & Automation.
+
+🎯 **Open to:**  
+Collaborating on AI-powered products, intelligent automation, open-source projects, and innovative software solutions.
+
+💬 **Ask Me About:**  
+AI agents, LLM integration, prompt engineering, API integration, full-stack application development, and building practical AI-powered solutions.
+
+🚀 **My Approach:**  
+Learn → Build → Test → Improve → Ship. I believe in learning by building, solving real-world problems, and continuously improving through hands-on development.
 
 
 ## 🌐 Socials:
