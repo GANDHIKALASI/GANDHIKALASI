@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gandhi Kalasi
+# 👋 Hi, I'm Gandhi ,
 
 ### AI Engineer in Progress | SLM Development | LLMs & AI Agents
 
