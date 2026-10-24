@@ -1,52 +1,91 @@
-# 🧑‍💻 About Me
+# 👋 Hi, I'm Gandhi Kalasi
 
-🤖 **AI Agent Developer | AI Automation & Intelligent Applications**
+### AI Engineer in Progress | SLM Development | LLMs & AI Agents
 
-I build AI-powered applications, intelligent agents, and automation workflows by combining LLMs, API integrations, and modern development technologies to transform ideas into practical solutions. 🚀
+I'm a BCA student and AI developer passionate about building intelligent systems, experimenting with language models, and turning ideas into practical AI-powered products.
 
-🛠️ **Currently Building:**
-- 🛡️ **CYBERGUARD** — An AI-powered platform for phishing detection, cyber threat analysis, and explainable risk assessment.
+My current focus is **Small Language Models (SLMs), LLM engineering, AI agents, RAG pipelines, and AI automation**. I enjoy exploring how models work, developing AI-driven applications, and building software that solves real-world problems.
+
+🚀 **My flagship AI project: [Orqanta-AI](https://github.com/GANDHIKALASI/Orqanta-AI)** — my own SLM project, focused on exploring and building language-model technology.
+
+## 🧠 What I'm Building
+
+- 🧠 **[Orqanta-AI](https://github.com/GANDHIKALASI/Orqanta-AI)** — My own Small Language Model (SLM) project.
+- 🤖 **AI Agents & Automation** — Building intelligent workflows, tool integrations, and AI-powered systems.
 - 🏢 **SocietySync** — A role-based residential society management platform.
-- 🚗 **KALYATRI** — A role-based ride-booking platform with dedicated user interfaces and dashboards.
-- 🤖 AI-powered tools, intelligent applications, and automation workflows.
+- 🚗 **KALYATRI** — A ride-booking platform with dedicated user experiences and dashboards.
+- 🛡️ **CYBERGUARD** — An explainable AI-powered threat detection platform developed for a college hackathon.
 
-🌱 **Currently Exploring:**  
-AI Agent Development, LLM Integration, Prompt Engineering, Python, REST APIs, TypeScript, React, Next.js, Supabase, Cloud Deployment, Linux & Automation.
+## 🔬 Current Learning & Research
 
-⚡ **Tech Stack:**  
-Python, JavaScript, TypeScript, React, Next.js, Supabase, Git & GitHub, REST APIs, AI/LLM Integration, Linux & Automation.
+- Small Language Models (SLMs) and model development
+- LLM architecture, inference, and optimization
+- Retrieval-Augmented Generation (RAG)
+- AI agents, tool calling, and workflow orchestration
+- Prompt engineering and model evaluation
+- Python, REST APIs, and AI application development
+- Edge AI and efficient model deployment
+- Full-stack development and cloud deployment
 
-🎯 **Open to:**  
-Collaborating on AI-powered products, intelligent automation, open-source projects, and innovative software solutions.
+## 🛠️ Tech Stack
 
-💬 **Ask Me About:**  
-AI agents, LLM integration, prompt engineering, API integration, full-stack application development, and building practical AI-powered solutions.
+**Languages & Development**
 
-🚀 **My Approach:**  
-Learn → Build → Test → Improve → Ship. I believe in learning by building, solving real-world problems, and continuously improving through hands-on development.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
+**AI & Machine Learning**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/gandhikalasi33) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bug_gandhi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gandhi-kalasi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GANDHI_8328) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@DARKROOTLAB) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gandhikalasi115@gmail.com) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-6C5CE7?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLM_Engineering-2D3748?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0F766E?style=for-the-badge)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=GANDHIKALASI&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=GANDHIKALASI&theme=noctis_minimus&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=GANDHIKALASI&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Backend, Data & Deployment**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GANDHIKALASI&theme=merko&no-frame=false&no-bg=true&margin-w=4)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+## 📌 Featured Project
+
+### 🧠 Orqanta-AI — My SLM Project
+
+I'm exploring language-model development through my own project, Orqanta-AI. My goal is to deepen my understanding of how language models are developed, run, evaluated, and integrated into practical AI systems.
+
+🔗 **Repository:** [github.com/GANDHIKALASI/Orqanta-AI](https://github.com/GANDHIKALASI/Orqanta-AI)
+
+## 📊 GitHub Statistics
+
+![](https://github-readme-stats.shion.dev/api?username=GANDHIKALASI&theme=tokyonight&hide_border=true&show_icons=true)
+
+![](https://streak-stats.demolab.com/?user=GANDHIKALASI&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=GANDHIKALASI&theme=tokyonight&hide_border=true&layout=compact)
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gandhi-kalasi)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/GANDHIKALASI)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bug_gandhi)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x)](https://x.com/GANDHI_8328)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gandhikalasi115@gmail.com)
 
 ---
-[![](https://komarev.com/ghpvc/?username=GANDHIKALASI&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ffgandhi09) 
+### ⚡ My Philosophy
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Learn → Experiment → Build → Evaluate → Improve → Ship**
+
+I believe the best way to understand AI is to build with it, experiment with it, and keep learning how it works under the hood.
+
+*Building today. Learning every day. Engineering intelligent systems for tomorrow.*
+
