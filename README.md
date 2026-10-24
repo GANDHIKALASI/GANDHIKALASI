@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gandhi ,
+# 👋 Hi, I'm Gandhi Kalasi
 
 ### AI Engineer in Progress | SLM Development | LLMs & AI Agents
 
@@ -6,15 +6,14 @@ I'm a BCA student and AI developer passionate about building intelligent systems
 
 My current focus is **Small Language Models (SLMs), LLM engineering, AI agents, RAG pipelines, and AI automation**. I enjoy exploring how models work, developing AI-driven applications, and building software that solves real-world problems.
 
-🚀 **My flagship AI project: [Orqanta-AI](https://github.com/GANDHIKALASI/Orqanta-AI)** — my own SLM project, focused on exploring and building language-model technology.
+🚀 **My flagship AI project: [Orqanta-AI](https://github.com/GANDHIKALASI/Orqanta-AI)** — my own SLM project focused on language-model development and experimentation.
 
 ## 🧠 What I'm Building
 
 - 🧠 **[Orqanta-AI](https://github.com/GANDHIKALASI/Orqanta-AI)** — My own Small Language Model (SLM) project.
-- 🤖 **AI Agents & Automation** — Building intelligent workflows, tool integrations, and AI-powered systems.
-- 🏢 **SocietySync** — A role-based residential society management platform.
-- 🚗 **KALYATRI** — A ride-booking platform with dedicated user experiences and dashboards.
-- 🛡️ **CYBERGUARD** — An explainable AI-powered threat detection platform developed for a college hackathon.
+- 🤖 **[ODISHAMART](https://github.com/GANDHIKALASI/ODISHAMART)** — An e-commerce project exploring modern application development and automation.
+- 🏢 **[SocietySync](https://society-sync-three.vercel.app/)** — A role-based residential society management platform.
+- 🛡️ **[CYBERGUARD](https://cyberguard.bhuktatech.in/)** — An AI-powered threat detection platform featuring explainable risk assessment, developed for a college hackathon.
 
 ## 🔬 Current Learning & Research
 
@@ -55,13 +54,27 @@ My current focus is **Small Language Models (SLMs), LLM engineering, AI agents, 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📌 Featured Project
+## 🚀 Featured Projects
 
-### 🧠 Orqanta-AI — My SLM Project
+### 🧠 Orqanta-AI — Small Language Model
+My own SLM project, focused on exploring language-model development and building a foundation in practical AI engineering.
 
-I'm exploring language-model development through my own project, Orqanta-AI. My goal is to deepen my understanding of how language models are developed, run, evaluated, and integrated into practical AI systems.
+🔗 **Repository:** [GANDHIKALASI/Orqanta-AI](https://github.com/GANDHIKALASI/Orqanta-AI)
 
-🔗 **Repository:** [github.com/GANDHIKALASI/Orqanta-AI](https://github.com/GANDHIKALASI/Orqanta-AI)
+### 🏢 SocietySync — Residential Society Management
+A role-based platform designed to support residential community management and improve coordination between residents and administrators.
+
+🌐 **Live Demo:** [society-sync-three.vercel.app](https://society-sync-three.vercel.app/)
+
+### 🤖 ODISHAMART — E-commerce Application
+A software project focused on building an e-commerce experience with modern web technologies.
+
+🔗 **Repository:** [GANDHIKALASI/ODISHAMART](https://github.com/GANDHIKALASI/ODISHAMART)
+
+### 🛡️ CYBERGUARD — Explainable AI Threat Detection
+An AI-powered platform built for a college hackathon, focused on threat analysis, phishing detection, and explainable risk assessment.
+
+🌐 **Live Demo:** [cyberguard.bhuktatech.in](https://cyberguard.bhuktatech.in/)
 
 ## 📊 GitHub Statistics
 
@@ -88,4 +101,3 @@ I'm exploring language-model development through my own project, Orqanta-AI. My 
 I believe the best way to understand AI is to build with it, experiment with it, and keep learning how it works under the hood.
 
 *Building today. Learning every day. Engineering intelligent systems for tomorrow.*
-
