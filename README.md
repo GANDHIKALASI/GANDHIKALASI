@@ -10,6 +10,7 @@ My current focus is **Small Language Models (SLMs), LLM engineering, AI agents, 
 
 ## 🧠 What I'm Building
 
+- 🎓 **[CampusPilot AI](https://github.com/GANDHIKALASI/CampusPilotAI)** — Intelligent, syllabus-grounded academic copilot with verified RAG and page-level citations. ([Live Demo](https://campuspilotai.vercel.app/))
 - 🧠 **[Orqanta-AI](https://github.com/GANDHIKALASI/Orqanta-AI)** — My own Small Language Model (SLM) project.
 - 🤖 **[ODISHAMART](https://github.com/GANDHIKALASI/ODISHAMART)** — An e-commerce project exploring modern application development and automation.
 - 🏢 **[SocietySync](https://society-sync-three.vercel.app/)** — A role-based residential society management platform.
@@ -55,6 +56,12 @@ My current focus is **Small Language Models (SLMs), LLM engineering, AI agents, 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🚀 Featured Projects
+
+### 🎓 CampusPilot AI — Syllabus-Grounded Academic Copilot
+An end-to-end full-stack AI academic study companion that eliminates hallucinations in university education through verified vector-grounded RAG, authentic page-level citations, and structured engineering curricula.
+
+🔗 **Repository:** [GANDHIKALASI/CampusPilotAI](https://github.com/GANDHIKALASI/CampusPilotAI)  
+🌐 **Live Demo:** [campuspilotai.vercel.app](https://campuspilotai.vercel.app/)
 
 ### 🧠 Orqanta-AI — Small Language Model
 My own SLM project, focused on exploring language-model development and building a foundation in practical AI engineering.
