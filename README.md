@@ -25,6 +25,7 @@ My current focus is **Small Language Models (SLMs), LLM engineering, AI agents, 
 - Prompt engineering and model evaluation
 - Python, REST APIs, and AI application development
 - Edge AI and efficient model deployment
+- Cloud infrastructure, backend hosting & deployment on AWS
 - Full-stack development and cloud deployment
 
 ## 🛠️ Tech Stack
@@ -47,6 +48,8 @@ My current focus is **Small Language Models (SLMs), LLM engineering, AI agents, 
 
 **Backend, Data & Deployment**
 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -58,7 +61,7 @@ My current focus is **Small Language Models (SLMs), LLM engineering, AI agents, 
 ## 🚀 Featured Projects
 
 ### 🎓 CampusPilot AI — Syllabus-Grounded Academic Copilot
-An end-to-end full-stack AI academic study companion that eliminates hallucinations in university education through verified vector-grounded RAG, authentic page-level citations, and structured engineering curricula.
+An end-to-end full-stack AI academic study companion that eliminates hallucinations in university education through verified vector-grounded RAG, authentic page-level citations, and structured engineering curricula. Features a FastAPI backend deployed on **AWS** and a responsive Next.js frontend hosted on **Vercel**.
 
 🔗 **Repository:** [GANDHIKALASI/CampusPilotAI](https://github.com/GANDHIKALASI/CampusPilotAI)  
 🌐 **Live Demo:** [campuspilotai.vercel.app](https://campuspilotai.vercel.app/)
