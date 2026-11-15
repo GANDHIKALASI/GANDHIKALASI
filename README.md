@@ -41,6 +41,7 @@ My current focus is **Small Language Models (SLMs), LLM engineering, AI agents, 
 **AI & Machine Learning**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![AMD ROCm](https://img.shields.io/badge/AMD_ROCm-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-6C5CE7?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLM_Engineering-2D3748?style=for-the-badge)
@@ -57,6 +58,15 @@ My current focus is **Small Language Models (SLMs), LLM engineering, AI agents, 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 🏆 Certifications
+
+<a href="https://www.credly.com/badges/fbfc7cbc-18c7-492e-8df3-58ceb2e98a4d" target="_blank">
+  <img src="assets/amd-rocm-certified-associate.png" width="130" alt="AMD ROCm Certified Associate" />
+</a>
+
+**[AMD ROCm™ Certified Associate](https://www.credly.com/badges/fbfc7cbc-18c7-492e-8df3-58ceb2e98a4d)** — Issued by **AMD**  
+*Validated expertise in accelerating, optimizing, and deploying AI & HPC workloads on AMD Instinct™ GPU platforms using ROCm™ and HIP.*
 
 ## 🚀 Featured Projects
 
