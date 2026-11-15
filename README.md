@@ -75,7 +75,7 @@ My current focus is **Small Language Models (SLMs), LLM engineering, AI agents, 
 
 - **[AMD ROCm™ Certified Associate](https://www.credly.com/badges/fbfc7cbc-18c7-492e-8df3-58ceb2e98a4d)** — AMD
 - **[Generative AI Essentials: LLMs with Data](https://www.credly.com/badges/a371bfd7-fd3c-4768-8279-3821e429ce5c/public_url)** — IBM
-- **[Make Agentic AI Work for You](https://www.credly.com/badges/9a8dea66-ed21-43b2-af38-2e78fe1a05a2/public_url)** — IBM
+- **[Make Agentic AI ](https://www.credly.com/badges/9a8dea66-ed21-43b2-af38-2e78fe1a05a2/public_url)** — IBM
 
 ## 🚀 Featured Projects
 
