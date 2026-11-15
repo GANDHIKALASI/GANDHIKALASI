@@ -62,11 +62,15 @@ My current focus is **Small Language Models (SLMs), LLM engineering, AI agents, 
 ## 🏆 Certifications
 
 <a href="https://www.credly.com/badges/fbfc7cbc-18c7-492e-8df3-58ceb2e98a4d" target="_blank">
-  <img src="assets/amd-rocm-certified-associate.png" width="130" alt="AMD ROCm Certified Associate" />
+  <img src="assets/amd-rocm-certified-associate.png" height="115" alt="AMD ROCm Certified Associate" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/a371bfd7-fd3c-4768-8279-3821e429ce5c/public_url" target="_blank">
+  <img src="assets/ibm-generative-ai-essentials.png" height="115" alt="IBM Generative AI Essentials" />
 </a>
 
-**[AMD ROCm™ Certified Associate](https://www.credly.com/badges/fbfc7cbc-18c7-492e-8df3-58ceb2e98a4d)** — Issued by **AMD**  
-*Validated expertise in accelerating, optimizing, and deploying AI & HPC workloads on AMD Instinct™ GPU platforms using ROCm™ and HIP.*
+- **[AMD ROCm™ Certified Associate](https://www.credly.com/badges/fbfc7cbc-18c7-492e-8df3-58ceb2e98a4d)** — AMD
+- **[Generative AI Essentials: Using LLMs with Data](https://www.credly.com/badges/a371bfd7-fd3c-4768-8279-3821e429ce5c/public_url)** — IBM
 
 ## 🚀 Featured Projects
 
