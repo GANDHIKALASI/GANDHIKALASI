@@ -72,10 +72,15 @@ My current focus is **Small Language Models (SLMs), LLM engineering, AI agents, 
 <a href="https://www.credly.com/badges/9a8dea66-ed21-43b2-af38-2e78fe1a05a2/public_url" target="_blank">
   <img src="assets/ibm-make-agentic-ai-work-for-you.png" height="110" alt="IBM Make Agentic AI Work for You" />
 </a>
+&nbsp;&nbsp;
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge_m?id=48B752A39B4D1179DB27AB3C12624D26D255E010B0234799AFC3A4F849D56921" target="_blank">
+  <img src="assets/oracle-cloud-infrastructure-ai.png" height="110" alt="Oracle Cloud Infrastructure AI Foundations Associate" />
+</a>
 
 - **[AMD ROCm™ Certified Associate](https://www.credly.com/badges/fbfc7cbc-18c7-492e-8df3-58ceb2e98a4d)** — AMD
 - **[Generative AI Essentials: LLMs with Data](https://www.credly.com/badges/a371bfd7-fd3c-4768-8279-3821e429ce5c/public_url)** — IBM
-- **[Make Agentic AI ](https://www.credly.com/badges/9a8dea66-ed21-43b2-af38-2e78fe1a05a2/public_url)** — IBM
+- **[Make Agentic AI](https://www.credly.com/badges/9a8dea66-ed21-43b2-af38-2e78fe1a05a2/public_url)** — IBM
+- **[OCI AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge_m?id=48B752A39B4D1179DB27AB3C12624D26D255E010B0234799AFC3A4F849D56921)** — Oracle
 
 ## 🚀 Featured Projects
 
